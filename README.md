@@ -1,4 +1,4 @@
-# DELHI METRO RAIL APP
+# DELHI METRO RAIL CORPORATION APP
 
 This is a straightforward Java program that asks the user for the name of the source and destination Delhi Metro stations, then displays the fare and the quickest metro route to get there. For easier navigation for commuters, it will also feature a metro map.
 
