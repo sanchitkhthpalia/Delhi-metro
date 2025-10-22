@@ -17,5 +17,5 @@ Main.java cointains all the major code and Heap.java contains heap implementatio
 > And lastly, understanding the Collection framework makes it a cakewalk journey. (If you don't know about the Collection framework it is not a                   problem, you can proceed without it and while working if you feel the need to know you can refer to https://www.geeksforgeeks.org/collections-in-java-2/ ).
 
 
-## That was all... You are all set to work on the project!!!!  
+## That was all... You are all set to work on the project!
 	
